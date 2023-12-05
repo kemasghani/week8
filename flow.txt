@@ -1,9 +1,0 @@
-npm i db-migrate db-migrate-pg
-
-npx db-migrate create initialize --sql-file
-
-sql up, 
-sql down,
-
-npx db-migrate-pg up
-npx db-migrate-pg down
